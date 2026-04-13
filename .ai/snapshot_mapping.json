@@ -1,3 +1,10 @@
 {
-  "snapshots": {}
+  "mappings": [
+    {
+      "message_id": "INT_1",
+      "conversation_id": "4a9bca2e-3aed-4463-a9a4-39ae3660c71b",
+      "content": "I want to make a platform jumping game with the robot",
+      "snapshot_message_type": 0
+    }
+  ]
 }
