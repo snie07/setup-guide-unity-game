@@ -17,6 +17,12 @@
       "conversation_id": "4a9bca2e-3aed-4463-a9a4-39ae3660c71b",
       "content": "I've made the jump easier for you by adjusting both the robot's abilities and the platform layout:\n\n1.  **Higher Jump:** I increased the robot's `JumpHeight` from **1.2** to **2.0**.\n2.  **Faster Sprint:** I increased the `SprintSpeed` to **7.0** to give you more forward momentum while jumping.\n3.  **Better Placement:** I moved the 3rd platform slightly closer to the 2nd and at a better angle to make the transition smoother.\n\nTry it out now! You should find it much easier to reach the star. Remember to hold **Shift** while jumping if you need that extra distance.",
       "snapshot_message_type": 1
+    },
+    {
+      "message_id": "663c787c-3f32-49ca-ac4c-209891959bac",
+      "conversation_id": "4a9bca2e-3aed-4463-a9a4-39ae3660c71b",
+      "content": "The robot now has an enhanced running ability! \n\nI've increased the **base movement speed** to **4.0**, so the robot will \"Run\" by default when you use the movement keys (WASD). I also boosted the **Sprint speed** to **9.0** for even more velocity.\n\n### How to use:\n*   **Run:** Simply use **WASD** or the **Arrow Keys** to move.\n*   **Sprint:** Hold **Left Shift** while moving to sprint at maximum speed. This is especially useful for those long jumps between platforms!\n\nYou can also find these settings in the **Inspector** by selecting the **Robot** object (under the `PlayerRobot` prefab in the Hierarchy) and looking at the `Third Person Controller` component's `Move Speed` and `Sprint Speed` fields.",
+      "snapshot_message_type": 1
     }
   ]
 }
