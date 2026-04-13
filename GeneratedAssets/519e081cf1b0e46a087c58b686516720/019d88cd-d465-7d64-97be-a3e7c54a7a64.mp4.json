@@ -1,0 +1,36 @@
+{
+    "asset": "519e081cf1b0e46a087c58b686516720",
+    "fileName": "019d88cd-d465-7d64-97be-a3e7c54a7a64.mp4",
+    "prompt": "Full body Mario character, single jump animation from start to peak to landing, side view, facing right, iconic red hat and blue overalls, game asset style.",
+    "negativePrompt": "",
+    "model": "14785f64-3fcc-432a-8205-cdd2f582c757",
+    "modelName": "Kling 2.5 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "41918b4ee53443113d02e8780cf5933d",
+    "feedback": 0,
+    "refinementMode": "Spritesheet",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 9,
+                "doodle": [],
+                "label": "First",
+                "strength": 1.0,
+                "invertStrength": false,
+                "assetReferenceGuid": "3b79d664f94e04640912ebbccbbcb199"
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 0,
+        "height": 0
+    },
+    "spriteSheet": true,
+    "duration": 5.0
+}

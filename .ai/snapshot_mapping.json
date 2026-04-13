@@ -29,6 +29,12 @@
       "conversation_id": "4a9bca2e-3aed-4463-a9a4-39ae3660c71b",
       "content": "I have successfully replaced the robot character with a 3D model of **Mario**!\n\n### Changes made:\n*   **New Character Model:** I generated a 3D model of Mario and placed him into the player's position.\n*   **Maintained Controls:** Mario uses the same running and jumping logic as the robot, so you can still use WASD to move and Space to jump.\n*   **Camera & Logic:** The camera and platforming logic are still fully functional, so you can continue your quest for the star as Mario.\n\n**Note:** Since the new Mario model is currently a static mesh, he will glide while moving rather than performing a walking animation. If you'd like him to have full animations, I can look into generating a 2D animated spritesheet or setting up a rigged 3D version!\n\nYou can see Mario standing at the start of your platformer in the updated scene! Would you like to try to reach the star as Mario now?",
       "snapshot_message_type": 1
+    },
+    {
+      "message_id": "d67ba70c-401d-4411-b164-db5d916b5848",
+      "conversation_id": "4a9bca2e-3aed-4463-a9a4-39ae3660c71b",
+      "content": "I have fully upgraded your Mario character!\n\n### What's New:\n*   **2D Animated Mario:** I replaced the static 3D model with a high-quality **2D animated character** (2.5D style).\n*   **Animations:** Mario now has a full animation set including **Idle**, **Running**, and **Jumping**.\n*   **Dynamic Visuals:** He now faces the camera and flips his direction as you move, giving it a classic \"Paper Mario\" or 2.5D platformer feel.\n*   **Physics & Collision:** I lifted him above the ground and adjusted the collision to ensure he's not buried anymore.\n\n### How it works:\nI created a special script called `Mario2DBridge` that connects the robot's movement data to Mario's 2D animations. When you press **WASD** or **Space**, the 2D sprite will automatically play the correct running or jumping animation.\n\n### Try it out!\nPress **Play** and start jumping! Mario should now look and move much more like he does in his own games.\n\nIs there anything else you'd like to adjust, such as his size or adding more platforms?",
+      "snapshot_message_type": 1
     }
   ]
 }
