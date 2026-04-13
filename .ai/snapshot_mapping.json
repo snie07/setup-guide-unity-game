@@ -5,6 +5,12 @@
       "conversation_id": "4a9bca2e-3aed-4463-a9a4-39ae3660c71b",
       "content": "I want to make a platform jumping game with the robot",
       "snapshot_message_type": 0
+    },
+    {
+      "message_id": "f538b969-47d5-458f-a160-6e9d919d897e",
+      "conversation_id": "4a9bca2e-3aed-4463-a9a4-39ae3660c71b",
+      "content": "I have created a platform jumping game for you in a new scene called **RobotPlatformer**!\n\n### What's in the game:\n*   **The Robot:** Your player character is ready to go at the starting position.\n*   **Challenging Platforms:** I've laid out a path of blue platforms that lead up to a final yellow \"Goal\" platform.\n*   **The Prize:** A collectible **Star** awaits you at the very top.\n*   **Safety Net:** If you fall off the platforms, the `RespawnPlayer` script will automatically teleport the robot back to the start so you can try again.\n\n### How to play:\n1.  Open the scene at `Assets/Scenes/RobotPlatformer.unity`.\n2.  Press the **Play** button at the top of the Unity Editor.\n3.  **Move:** Use **WASD** or the **Arrow Keys**.\n4.  **Jump:** Press the **Spacebar**.\n5.  **Look:** Move your **Mouse** to rotate the camera.\n6.  **Sprint:** Hold **Shift** to move faster.\n\nHave fun reaching the star! Is there anything else you'd like to add, like moving platforms or enemies?",
+      "snapshot_message_type": 1
     }
   ]
 }
