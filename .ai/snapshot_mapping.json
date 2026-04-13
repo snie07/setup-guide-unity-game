@@ -23,6 +23,12 @@
       "conversation_id": "4a9bca2e-3aed-4463-a9a4-39ae3660c71b",
       "content": "The robot now has an enhanced running ability! \n\nI've increased the **base movement speed** to **4.0**, so the robot will \"Run\" by default when you use the movement keys (WASD). I also boosted the **Sprint speed** to **9.0** for even more velocity.\n\n### How to use:\n*   **Run:** Simply use **WASD** or the **Arrow Keys** to move.\n*   **Sprint:** Hold **Left Shift** while moving to sprint at maximum speed. This is especially useful for those long jumps between platforms!\n\nYou can also find these settings in the **Inspector** by selecting the **Robot** object (under the `PlayerRobot` prefab in the Hierarchy) and looking at the `Third Person Controller` component's `Move Speed` and `Sprint Speed` fields.",
       "snapshot_message_type": 1
+    },
+    {
+      "message_id": "84eb04db-956a-497a-8744-d53e1d14f0a7",
+      "conversation_id": "4a9bca2e-3aed-4463-a9a4-39ae3660c71b",
+      "content": "I have successfully replaced the robot character with a 3D model of **Mario**!\n\n### Changes made:\n*   **New Character Model:** I generated a 3D model of Mario and placed him into the player's position.\n*   **Maintained Controls:** Mario uses the same running and jumping logic as the robot, so you can still use WASD to move and Space to jump.\n*   **Camera & Logic:** The camera and platforming logic are still fully functional, so you can continue your quest for the star as Mario.\n\n**Note:** Since the new Mario model is currently a static mesh, he will glide while moving rather than performing a walking animation. If you'd like him to have full animations, I can look into generating a 2D animated spritesheet or setting up a rigged 3D version!\n\nYou can see Mario standing at the start of your platformer in the updated scene! Would you like to try to reach the star as Mario now?",
+      "snapshot_message_type": 1
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+    "asset": "8ff1e5d1e477a4e37909aee62daa58f4",
+    "fileName": "019d8899-210a-7d12-b049-d34d253e616f.glb",
+    "prompt": "Mario character from Nintendo, red cap with M, blue overalls, red shirt, white gloves, brown shoes, mustache, stylized 3D model, standing pose, t-pose or a-pose for rigging.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "1cd27aa9ebd750866ff1ce60806a9cdd",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}
